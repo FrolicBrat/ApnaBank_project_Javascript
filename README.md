@@ -27,5 +27,5 @@ map([🌽, 🐮, 🐔], cook) // Here New Array is formed as per the use of ever
 filter([🍿, 🍔, 🍳], isVegetarian) // Here the filter function is used to get the desired output. As per the (isVegetarian) condition.
 =>  [🍿, 🍳]
 
-reduce([🍿, 🍳], eat) // At last this is what happend when reduce is called 
+reduce([🍿, 🍳], eat) // At last this is what happend when reduce is called😂.Reduce function is used when we need a single value from the array.
 => 💩
